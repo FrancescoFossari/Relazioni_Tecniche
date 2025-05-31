@@ -1,6 +1,6 @@
-# Relazioni_Tecniche🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹
+# Relazioni_Tecniche
 
-# 📚 Relazioni Tecniche – Francesco Fossari
+# 📚 Relazioni Tecniche – Francesco Fossari🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹
 
 Questo repository raccoglie due relazioni universitarie realizzate durante il percorso di studi in Informatica presso l'Università degli Studi di Napoli Parthenope. Ogni progetto è inserito in una cartella dedicata per evidenziarne i contenuti.
 
@@ -29,9 +29,8 @@ Manuale utente sull’uso della libreria MPI in linguaggio Fortran, con esercizi
 🎓 Corso di Laurea Triennale in Informatica – Università degli Studi di Napoli Parthenope
 
 
-🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧
 
-# 📚 Technical Reports – Francesco Fossari
+# 📚 Technical Reports – Francesco Fossari 🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧
 
 This repository contains two academic reports created during the Bachelor's degree in Computer Science at the University of Naples Parthenope. Each project is placed in its own folder to ensure clarity and visibility.
 

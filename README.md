@@ -1,44 +1,70 @@
-# 📚 Relazioni Tecniche – Francesco Fossari
+# 📚 Technical Reports – Francesco Fossari
 
-Questo repository raccoglie varie relazioni accademiche sviluppate durante il Corso di Laurea Triennale in Informatica presso l'Università degli Studi di Napoli "Parthenope".
+This repository collects a set of academic technical reports developed during the **Bachelor’s Degree in Computer Science** at the *University of Naples "Parthenope"*.
 
-> 🇮🇹 Le relazioni **1** e **3** sono in **lingua italiana**, in quanto preparate per esami svolti presso l'Università italiana.  
-> 🇬🇧 La relazione **2** è in **lingua inglese**, in quanto pensata per un contesto internazionale (manuale tecnico basato su fonti estere).
+The reports cover different areas of computer science, including **cybersecurity, high-performance computing, geospatial data analysis, and big data systems**, and are written in both **Italian and English** depending on the context of the original coursework.
 
----
-
-## 📌 Progetti
-
-### 🔐 [SQL Injection e Sicurezza Web](./SQLInjection_Cybersec/RelazioneCybersec.pdf)
-Relazione tecnica sulla SQL Injection, con esempi pratici, scansioni reali con strumenti come Nessus e SQLMap, e analisi delle contromisure possibili.
-  
-📄 _File_: `RelazioneCybersec.pdf`  
-🎯 _Argomento_: Sicurezza Web e Penetration Testing  
-🗣️ _Lingua_: Italiano 🇮🇹
+> 🇮🇹 Reports **1** and **3** are written in **Italian**, as they were prepared for university exams in Italy.  
+> 🇬🇧 Reports **2** and **4** are written in **English**, as they are designed as technical documentation suitable for an international context.
 
 ---
 
-### 🧮 [MPI in Fortran – A User Guide for Parallel Computing](./MPI_Fortran_Guide/Report_MPI_FF.pdf)
-User manual written in English based on MPI’s official documentation. Covers communication mechanisms, derived datatypes, and practical examples using Fortran.
-  
-📄 _File_: `Report_MPI_FF.pdf`  
-🎯 _Topic_: High Performance Computing & Distributed Systems  
-🗣️ _Language_: English 🇬🇧
+# 📌 Projects
+
+## 🔐 [SQL Injection and Web Security](./SQLInjection_Cybersec/RelazioneCybersec.pdf)
+
+Technical report on **SQL Injection vulnerabilities**, including practical attack examples, vulnerability scanning using tools such as **Nessus** and **SQLMap**, and an analysis of mitigation strategies and defensive techniques.
+
+📄 **File:** `RelazioneCybersec.pdf`  
+🎯 **Topic:** Web Security & Penetration Testing  
+🗣️ **Language:** Italian 🇮🇹
 
 ---
 
-### 🌍 [Analisi di Telerilevamento con QGIS e NDVI](./RemoteSensing_Report/Relazione_Telerilevamento.pdf)
-Relazione per l'esame da **6 CFU** in Telerilevamento. Descrive l'analisi di immagini satellitari tramite NDVI, classificazione supervisionata (Mahalanobis) e verifica tramite matrice di confusione.
+## 🧮 [MPI in Fortran – A User Guide for Parallel Computing](./MPI_Fortran_Guide/Report_MPI_FF.pdf)
 
-📄 _File_: `Relazione_Telerilevamento.pdf`  
-🎯 _Argomento_: Telerilevamento, QGIS, NDVI, Classificazione Raster  
-🗣️ _Lingua_: Italiano 🇮🇹
+Technical guide written in English based on the official **MPI documentation**.  
+It explains core concepts of **parallel computing**, including communication primitives, derived datatypes, and practical examples implemented in **Fortran**.
+
+📄 **File:** `Report_MPI_FF.pdf`  
+🎯 **Topic:** High Performance Computing & Distributed Systems  
+🗣️ **Language:** English 🇬🇧
 
 ---
 
-## 📬 Autore
+## 🌍 [Remote Sensing Analysis with QGIS and NDVI](./RemoteSensing_Report/Relazione_Telerilevamento.pdf)
+
+Report developed for a **Remote Sensing course** focusing on satellite image analysis using **NDVI (Normalized Difference Vegetation Index)**.  
+The project includes supervised classification (Mahalanobis method) and model evaluation through a **confusion matrix**.
+
+📄 **File:** `Relazione_Telerilevamento.pdf`  
+🎯 **Topic:** Remote Sensing, QGIS, NDVI, Raster Classification  
+🗣️ **Language:** Italian 🇮🇹
+
+---
+
+## 📊 [Big Data Sentiment Analysis with Kafka and Spark](./BigData_SentimentAnalysis/FFossari_HWSWBigData.pdf)
+
+Technical project focused on building an **end-to-end Big Data pipeline for sentiment analysis on large-scale Twitter data**.
+
+The system integrates **Apache Kafka for data ingestion** and **Apache Spark for distributed processing**, implementing a full machine learning workflow including text preprocessing, model training, evaluation, and **real-time sentiment prediction using Spark Structured Streaming**.
+
+📄 **File:** `FFossari_HWSWBigData.pdf`  
+🎯 **Topic:** Big Data, Data Engineering, Streaming Systems  
+⚙️ **Technologies:** Apache Kafka, Apache Spark, Spark MLlib  
+🗣️ **Language:** English 🇬🇧
+
+---
+
+# 📬 Author
 
 **Francesco Fossari**  
-📧 francescofossari19@gmail.com 
-🎓 Corso di Laurea Triennale in Informatica  
-🎓 Università degli Studi di Napoli "Parthenope"
+📧 francescofossari19@gmail.com  
+🎓 BSc in Computer Science – University of Naples "Parthenope"  
+🎓 MSc Student in *Data Science for Intelligent Systems* – University of Naples Federico II
+
+---
+
+## 🧰 Topics
+
+Cybersecurity • High Performance Computing • Parallel Programming • Big Data • Data Engineering • Stream Processing • Remote Sensing • Technical Documentation
